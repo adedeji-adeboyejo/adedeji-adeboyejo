@@ -1,7 +1,9 @@
-Hi, I'm Adedeji Adeboyejo 👋
+Hi!
+My name is Adedeji Adeboyejo...but you can call me Deji
 
-I'm a computer Science student at the University of Windsor building toward data engineering.
-I'm interested in data infrastructure, pipelines, and computer vision data systems.
+I'm a computer Science student at the University of Windsor building toward data and cloud engineering.
+I'm interested in data infrastructure, pipelines, and cloud systems.
+I'm actively exploring my love for programming!
 
 I'm currently developing strong foundations in:
 - Python for data manipulation.
